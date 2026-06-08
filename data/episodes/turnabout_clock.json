@@ -1,0 +1,404 @@
+{
+  "episode_id": "turnabout_clock",
+  "title": "시간을 달려서",
+  "difficulty_available": [
+    "easy",
+    "hard"
+  ],
+  "case_intro": {
+    "time": "사건 시각  7월 31일  16:00~17:00",
+    "location": "위치  타카비 미카의 아파트",
+    "lines": [
+      "누군가가 금고를 건드리고 있습니다.",
+      "그때! 집의 주인이 들어옵니다.",
+      "그는 집주인이 집을 비운다는 사실을 알고 들어온 거였습니다.",
+      "",
+      "그의 손에 피가 묻은 돌하르방이 쥐어져 있습니다.",
+      "이후 피고인이 참혹한 현장을 발견합니다."
+    ]
+  },
+  "absolute_truth": {
+    "description": "야마노는 신문 구독 권유원으로 위장해 타카비 미카의 방에 들어갔고, 생각하는 사람 모양의 탁상시계로 피해자를 살해했다. 이후 현장 근처의 야하리 마사시에게 죄를 뒤집어씌우기 위해 목격자로 위장했다.",
+    "date": "7월 31일",
+    "time_of_death": "16:00~17:00",
+    "location": "타카비 미카의 아파트",
+    "victim": "타카비 미카",
+    "culprit": "야마노",
+    "defendant": "야하리 마사시"
+  },
+  "scripted_trap": {
+    "description": "야마노의 증언은 반박될 때마다 2시를 알게 된 방법이 바뀐다. 부검서, 정전 보고, 장식품, 여권 순서로 모순을 찔러야 한다.",
+    "fatal_evidence_id": "passport"
+  },
+  "characters": {
+    "defendant": {
+      "id": "def_001",
+      "name": "야하리 마사시",
+      "role": "defendant",
+      "description": "타카비 미카의 지인. 사건 현장 근처에 있었다는 이유로 범인으로 몰렸다.",
+      "portrait_idle": "/court-assets/characters/defense/0.png"
+    },
+    "witness_yamano": {
+      "id": "wit_001",
+      "name": "야마노",
+      "role": "witness",
+      "description": "신문 구독 권유원으로 위장한 진범. 목격자를 자처하며 계속 말을 바꾼다.",
+      "portrait_idle": "/court-assets/characters/witness/0.png"
+    },
+    "prosecutor": {
+      "id": "pros_001",
+      "name": "아우치 검사",
+      "role": "prosecutor",
+      "description": "야마노의 증언을 근거로 피고인의 유죄를 주장한다.",
+      "portrait_idle": "/court-assets/characters/prosecutor/0.png"
+    },
+    "judge": {
+      "id": "judge_001",
+      "name": "판사",
+      "role": "judge",
+      "description": "증언과 증거의 논리적 일치를 확인한다.",
+      "portrait_idle": "/court-assets/characters/judge/0.png"
+    },
+    "player": {
+      "id": "player",
+      "name": "나루호도",
+      "role": "defense"
+    }
+  },
+  "clickable_objects": [
+    {
+      "id": "inv_autopsy",
+      "evidence_id": "autopsy_report",
+      "label": "현장 수색",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": "inv_clock",
+      "evidence_id": "thinker_clock",
+      "label": "현장 수색",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": "inv_outage",
+      "evidence_id": "outage_record",
+      "label": "현장 수색",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": "inv_passport",
+      "evidence_id": "passport",
+      "label": "현장 수색",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    }
+  ],
+  "evidences": [
+    {
+      "id": "autopsy_report",
+      "name": "미카의 부검서",
+      "description": "피해자 타카비 미카의 사망 시각은 7월 31일 오후 4시부터 5시 사이. 사인은 둔기 일격에 의한 출혈사.",
+      "fact": "2시에 이미 시체가 있었다는 증언과 충돌한다.",
+      "details": "검사가 처음 제출한 객관 자료. 사망 시각과 사인을 증명한다.",
+      "tags": [
+        "사망시각",
+        "부검"
+      ]
+    },
+    {
+      "id": "thinker_clock",
+      "name": "생각하는 사람 장식품",
+      "description": "범행에 쓰인 무거운 장식품. 겉보기에는 조각상이지만, 목이 꺾이면 알람이 울리는 탁상시계다.",
+      "fact": "겉모습만 보고는 시계임을 알 수 없다.",
+      "details": "시계를 보았다는 증언은 외형과 모순된다. 범인만이 알람 소리를 들었을 가능성이 높다.",
+      "tags": [
+        "흉기",
+        "시계",
+        "알람"
+      ]
+    },
+    {
+      "id": "outage_record",
+      "name": "정전 보고",
+      "description": "사건 당일 오후 1시 55분부터 2시 10분 사이, 피해자 방 일대에 정전이 있었다.",
+      "fact": "TV나 비디오에서 시계 소리를 들었다는 변명과 충돌한다.",
+      "details": "아우치 검사가 제출한 자료. 전기 기기는 작동하기 어려운 상태였다.",
+      "tags": [
+        "정전",
+        "전기"
+      ]
+    },
+    {
+      "id": "passport",
+      "name": "여권",
+      "description": "피해자는 사건 전날인 7월 30일 뉴욕에서 귀국했다.",
+      "fact": "탁상시계가 뉴욕 시간에 맞춰져 있었기 때문에 일본 시간과 2시간 차이가 났다.",
+      "details": "시계가 왜 2시간 어긋나 있었는지 설명하는 최종 증거.",
+      "tags": [
+        "뉴욕",
+        "시차",
+        "최종증거"
+      ]
+    }
+  ],
+  "testimony": [],
+  "contradictions": [
+    {
+      "rule_id": "rule_time_of_death",
+      "required_evidence_id": "autopsy_report",
+      "target_statement_id": "stmt_yamano_reported_at_two",
+      "breakdown_delta": 25,
+      "description": "2시에 시체를 발견했다는 증언은 부검서의 사망 시각과 모순된다."
+    },
+    {
+      "rule_id": "rule_outage",
+      "required_evidence_id": "outage_record",
+      "target_statement_id": "counter_yamano_tv_sound",
+      "breakdown_delta": 25,
+      "description": "정전 중 TV나 비디오에서 알람 소리를 들을 수 없다."
+    },
+    {
+      "rule_id": "rule_clock_shape",
+      "required_evidence_id": "thinker_clock",
+      "target_statement_id": "counter_yamano_saw_clock",
+      "breakdown_delta": 25,
+      "description": "장식품은 외형상 시계로 보이지 않는다."
+    },
+    {
+      "rule_id": "rule_passport_timezone",
+      "required_evidence_id": "passport",
+      "target_statement_id": "counter_yamano_prove_delay",
+      "breakdown_delta": 25,
+      "description": "피해자의 뉴욕 귀국 사실이 2시간 오차를 설명한다."
+    }
+  ],
+  "breakdown_conditions": {
+    "gauge_threshold": 100,
+    "cutscene_id": "bd_yamano"
+  },
+  "character_knowledge_scope": {
+    "def_001": [
+      "public_evidence",
+      "court_records"
+    ],
+    "wit_001": [
+      "own_statements"
+    ],
+    "pros_001": [
+      "public_evidence",
+      "court_records"
+    ],
+    "judge_001": [
+      "public_evidence",
+      "court_records"
+    ]
+  },
+  "allowed_lies": [
+    "야마노는 신고 시각을 2시라고 말할 수 있다.",
+    "야마노는 TV나 비디오 소리를 들었다고 변명할 수 있다.",
+    "야마노는 장식품을 보고 시간을 알았다고 말을 바꿀 수 있다."
+  ],
+  "forbidden_claims": [
+    "야하리가 범행 장면을 자백했다",
+    "피해자가 살아서 2시에 통화했다",
+    "여권 없이도 시차가 확정된다"
+  ],
+  "trials": [
+    {
+      "trial_id": "trial_yamano",
+      "title": "야마노의 위증",
+      "order": 1,
+      "stages": [
+        {
+          "stage_id": "stage_yamano_chain",
+          "stage_type": "vs_witness",
+          "order": 1,
+          "active_witness_id": "wit_001",
+          "life": {
+            "easy": 5,
+            "hard": 3
+          },
+          "witness_mental": 100,
+          "fixed_testimony_chain": [
+            {
+              "statement_id": "stmt_yamano_reported_at_two",
+              "text": "저는 남자가 방을 나가는 것을 보고 안을 들여다봤습니다. 이미 시체가 있었고, 전화가 불통이라 공중전화로 오후 2시에 신고했습니다.",
+              "weakness_id": "weak_time_of_death",
+              "required_evidence_ids": [
+                "autopsy_report"
+              ],
+              "required_logic_points": [
+                "부검서의 사망 시각은 오후 4시부터 5시 사이다.",
+                "증인은 오후 2시에 이미 시체가 있었다고 주장한다.",
+                "피해자는 2시에는 아직 사망 전이므로 시체를 발견할 수 없다."
+              ],
+              "damage_on_success": 25,
+              "life_loss_on_fail": 1,
+              "counter_statement_id": "counter_yamano_tv_sound"
+            }
+          ],
+          "counter_statements": [
+            {
+              "statement_id": "counter_yamano_tv_sound",
+              "text": "아, 제가 시간을 직접 본 건 아닙니다! 방 안의 TV나 비디오에서 시계 알람 같은 소리가 났고, 그래서 2시라고 착각한 겁니다.",
+              "weakness_id": "weak_outage_sound",
+              "required_evidence_ids": [
+                "outage_record"
+              ],
+              "required_logic_points": [
+                "정전 보고에 따르면 당시 피해자 방 일대는 정전 상태였다.",
+                "정전 중에는 TV나 비디오가 정상적으로 작동할 수 없다.",
+                "따라서 TV나 비디오 소리로 2시를 알았다는 변명은 성립하지 않는다."
+              ],
+              "damage_on_success": 25,
+              "life_loss_on_fail": 1,
+              "next_counter_statement_id": "counter_yamano_saw_clock"
+            },
+            {
+              "statement_id": "counter_yamano_saw_clock",
+              "text": "좋습니다, 소리를 들은 게 아닙니다. 현장에 있던 흉기, 그 탁상시계를 직접 봤습니다. 그래서 시간이 2시인 줄 안 겁니다.",
+              "weakness_id": "weak_clock_shape",
+              "required_evidence_ids": [
+                "thinker_clock"
+              ],
+              "required_logic_points": [
+                "생각하는 사람 장식품은 겉보기에는 단순한 조각상이다.",
+                "외형만 보고는 탁상시계임을 알 수 없다.",
+                "증인이 시계임을 안 것은 직접 본 것이 아니라 알람 소리를 들었기 때문이라고 추론된다."
+              ],
+              "damage_on_success": 25,
+              "life_loss_on_fail": 1,
+              "next_counter_statement_id": "counter_yamano_prove_delay"
+            },
+            {
+              "statement_id": "counter_yamano_prove_delay",
+              "text": "그 장식품이 시계인 건 맞다 칩시다. 하지만 사건 당일 그 시계가 정말 2시간 늦어져 있었다는 증거가 있습니까?",
+              "weakness_id": "weak_passport_timezone",
+              "required_evidence_ids": [
+                "passport"
+              ],
+              "required_logic_points": [
+                "여권은 피해자가 전날 뉴욕에서 귀국했음을 보여준다.",
+                "탁상시계는 뉴욕 시간에 맞춰져 있었을 가능성이 있다.",
+                "뉴욕 시간 때문에 일본 시간과 2시간 차이가 났고, 범인은 알람을 듣고 2시로 착각했다."
+              ],
+              "damage_on_success": 25,
+              "life_loss_on_fail": 1
+            }
+          ],
+          "clear_condition": {
+            "witness_mental_lte": 0
+          },
+          "score_weight": 1.0,
+          "prosecution_context": {
+            "purpose": "피고인 야하리 마사시가 사건 현장 직후 방을 나갔고, 증인이 곧바로 시체를 발견했다는 흐름을 세워 피고인의 범행 직후 도주를 주장한다.",
+            "witness_claim": "야마노는 피고인이 피해자의 방에서 나가는 것을 보았고, 그 뒤 방 안에서 시체를 발견해 오후 2시에 신고했다고 주장한다.",
+            "supports": [
+              "피고인이 사건 현장과 직접 연결되어 보인다.",
+              "증인의 신고와 목격담이 피고인을 범인으로 의심하게 만든다.",
+              "검찰은 증인을 목격자로 세워 피고인의 현장 존재와 범행 직후 정황을 강조한다."
+            ],
+            "do_not_reveal": [
+              "사망 시각 모순",
+              "정전 보고",
+              "장식품이 시계인지 여부",
+              "여권과 시차"
+            ]
+          },
+          "hints": [
+            "먼저 증인의 신고 시각과 부검서의 사망 시각을 비교하세요.",
+            "TV나 비디오 이야기가 나오면 전기가 들어왔는지 확인하세요.",
+            "장식품이 정말 보기만 해도 시계처럼 보이는지 따져보세요.",
+            "마지막에는 왜 시계가 2시간 어긋났는지 설명해야 합니다."
+          ],
+          "hints_by_phase": {
+            "testimony": [
+              "먼저 증인의 신고 시각과 부검서의 사망 시각을 비교하세요.",
+              "TV나 비디오 이야기가 나오면 전기가 들어왔는지 확인하세요.",
+              "장식품이 정말 보기만 해도 시계처럼 보이는지 따져보세요.",
+              "마지막에는 왜 시계가 2시간 어긋났는지 설명해야 합니다."
+            ],
+            "cross_exam_free": [
+              "TV나 비디오 이야기가 나오면 전기가 들어왔는지 확인하세요.",
+              "장식품이 정말 보기만 해도 시계처럼 보이는지 따져보세요.",
+              "마지막에는 왜 시계가 2시간 어긋났는지 설명해야 합니다."
+            ]
+          },
+          "contradiction_helper_lines": [
+            [
+              "이의 성공! 야마노가 말을 바꿨어요.",
+              "TV·비디오 소리 이야기가 나왔죠? 정전 보고과 맞지 않아요. 정전 보고으로 계속 파고들어 보세요!"
+            ],
+            [
+              "또 말을 바꿨네요! 이번엔 탁상시계를 봤다고 하네요.",
+              "장식품이 정말 보기만 해도 시계처럼 보이는지 따져보세요. 생각하는 사람 조각상 증거를 활용해 보세요!"
+            ],
+            [
+              "거의 다 왔어요! 이제 마지막 반박이에요.",
+              "왜 시계가 2시간 어긋났는지 설명해야 해요. 여권으로 뉴욕 귀국과 시차를 짚어보세요!"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "character_files": [
+    {
+      "character_id": "wit_001",
+      "name": "야마노",
+      "role": "witness",
+      "description": "자신의 범행을 숨기기 위해 피고인을 범인으로 몰아가는 위증자.",
+      "relation_to_defendant": "피고인을 현장 근처에서 봤다고 주장",
+      "known_statements": [
+        "오후 2시에 시체를 발견했다고 주장한다.",
+        "반박당하면 시간 인지 방법을 계속 바꾼다."
+      ],
+      "credibility_state": "unstable",
+      "portrait": "/court-assets/characters/witness/0.png",
+      "expression_state": "idle"
+    },
+    {
+      "character_id": "def_001",
+      "name": "야하리 마사시",
+      "role": "defendant",
+      "description": "사건 현장 근처에 있었지만 살인은 하지 않았다.",
+      "relation_to_defendant": "본인",
+      "known_statements": [],
+      "credibility_state": "unknown",
+      "portrait": "/court-assets/characters/defense/0.png",
+      "expression_state": "idle"
+    },
+    {
+      "character_id": "pros_001",
+      "name": "아우치 검사",
+      "role": "prosecutor",
+      "description": "야마노의 목격 증언을 바탕으로 피고인의 유죄를 주장한다.",
+      "relation_to_defendant": "검찰",
+      "known_statements": [],
+      "credibility_state": "official",
+      "portrait": "/court-assets/characters/prosecutor/0.png",
+      "expression_state": "idle"
+    },
+    {
+      "character_id": "judge_001",
+      "name": "판사",
+      "role": "judge",
+      "description": "증언이 증거와 충돌하는지 판단한다.",
+      "relation_to_defendant": "재판부",
+      "known_statements": [],
+      "credibility_state": "neutral",
+      "portrait": "/court-assets/characters/judge/0.png",
+      "expression_state": "idle"
+    }
+  ]
+}

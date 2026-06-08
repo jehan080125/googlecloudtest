@@ -1,0 +1,1032 @@
+{
+  "episode_id": "disaster_epitaph",
+  "title": "재앙의 임말소",
+  "difficulty_available": [
+    "easy",
+    "hard"
+  ],
+  "case_intro": {
+    "time": "2월 5일 — 6월 5일",
+    "location": "대만 분쟁 · YJ그룹 · 강남스타일 클럽",
+    "story_summary": "2월 대만 분쟁으로 증시가 붕괴했고, YJ그룹 CTO 임민수(32)는 퀀트 투자 실패로 빚에 쫓겼다. 공동창업자 양진혁(30)과 함께 자율주행 AI를 성공시켰으나, 6월 5일 강남스타일 클럽 기념 파티에서 양진혁이 정체불명 가스(VX)에 중독돼 쓰러져 사망했다. 수사는 바텐더 소호를 용의자로 삼았고, 강남스타일에서 만난 이소은은 독을 건넨 뒤 전화로 뒤를 조율한 정황이 있다. 1차 재판 중 이소은이 범행을 시인했으나, 연행 중 자율주행차 해킹으로 이소은과 경찰관이 즉사했다.",
+    "images": [
+      "/story2/1.png",
+      "/story2/2.png",
+      "/story2/3.png",
+      "/story2/4.png",
+      "/story2/5.png",
+      "/story2/6.png",
+      "/story2/7.png",
+      "/story2/8.png",
+      "/story2/9.png",
+      "/story2/10.png",
+      "/story2/11.png",
+      "/story2/12.png",
+      "/story2/13.png",
+      "/story2/14.png",
+      "/story2/15.png",
+      "/story2/16.png",
+      "/story2/17.png",
+      "/story2/18.png",
+      "/story2/19.png",
+      "/story2/20.png",
+      "/story2/21.png",
+      "/story2/22.png",
+      "/story2/23.png"
+    ],
+    "lines": [
+      "2월 5일. 대만을 둘러싼 충돌은 결국 미국의 선제 타격으로 번졌다.\n세계는 순식간에 전쟁 위기 속으로 빨려 들어갔다.",
+      "그리고 그 여파는 곧바로 시장을 덮쳤다. 미국과 한국의 증시는 크게 무너졌다.\n어떤 사람에게는, 그날이 인생이 무너진 날이 되었다. 퀀트 투자자였던 임민수에겐 더...",
+      "",
+      "",
+      "임민수와 양진혁. 두 사람은 YJ그룹을 함께 키운 동료였다. 누구보다 가까운 둘이었다.",
+      "임민수는 YJ그룹의 CTO, 양진혁은 CEO였다. 자율주행 AI 기술을 성공시킨 핵심 개발자이다. 업계에서도 이름이 꽤 알려진 인물이었다.",
+      "하지만 그의 휴대폰에는 끊임없이 독촉 전화가 쌓여 있었다. 회사는 성공하고 있었지만, 그의 개인 사정은 전혀 그렇지 못했던 모양이다.",
+      "",
+      "그날 밤, YJ 그룹은 성공을 기념하는 파티를 열었다. 장소는 강남스타일 클럽. 사건은 이제 시작한다.",
+      "",
+      "피해자에게 마지막으로 술을 건넨 사람은 바텐더 소호였다. 그래서 수사의 시선도 처음엔 자연스럽게 그쪽으로 향했다.",
+      "양진혁은 어떤 여자와 만나 강남스타일에서 즐거운 시간^^을 보내고 있다.",
+      "",
+      "그런데, 갑자기 양진혁 목에서 가스가 피어올랐다. 정체불명의 가스에 춤추고 있던 여성과 양진혁 모두 당황했다.",
+      "",
+      "으! 으윽!",
+      "",
+      "현장에는 두 개의 잔이 남아 있었다. 그리고 두 잔에서 미량의 독성 반응이 확인되었다. 양진혁이 쓰러져 사망한 뒤, 여성도 현기증을 앓으며 쓰러졌다.",
+      "첫 번째 재판 도중, 이소은은 결국 자신의 범행을 시인했다. 재판은 잠시 중단되었고, 그는 곧바로 경찰에 의해 연행되었다. 모두가 이제 사건이 끝났다고 생각했다.",
+      "",
+      "",
+      "차량이 통제를 벗어났고, 자율주행차량은 운전대를 잡아도 말을 듣지 않았다. 브레이크를 누를수록 차는 가속을 하며...",
+      "현장에서 이소은과 경찰관은 즉사했다. 며칠 뒤 열린 2차 재판, 검찰은 차량 해킹의 전문가 증인으로 임민수를 세웠다."
+    ]
+  },
+  "absolute_truth": {
+    "description": "6월 5일 강남스타일 클럽에서 YJ그룹 공동창업자 양진혁(피해자)이 VX 신경가스에 중독돼 사망했다. 바텐더 소호는 처음 용의자였으나, 증인 이소은이 바텐더를 누명 씌우려 위증했고, 이소은이 1차 재판 중 자백했다. 이소은 연행 중 자율주행차 해킹으로 경찰관과 함께 즉사했다. 이후 차량 해킹 살인(2차)과 진범 추적(3차)이 이어진다. 임민수가 해킹 배후일 가능성이 크다.",
+    "date": "2월 5일 — 6월 12일",
+    "time_of_death": "6월 5일 23:30경",
+    "location": "강남스타일 클럽",
+    "victim": "양진혁 (YJ그룹 공동창업자)",
+    "culprit": "이소은 (VX 살인) · 임민수 (차량 해킹 용의)",
+    "defendant": "소호 (1차) → 앤서니 (2차)"
+  },
+  "scripted_trap": {
+    "description": "1차 재판에서 이소은의 VX 독성·피부 흡수 거짓말을 파헤친다. 2차 재판에서 CCTV 우회전·서버 로그 좌회전 모순으로 검찰 논리를 흔든 뒤 카카오 동기만으로는 유죄 불가 판정으로 휴정한다.",
+    "fatal_evidence_id": "ev_ep_vx_info"
+  },
+  "characters": {
+    "defendant_soho": {
+      "id": "def_ep_001",
+      "name": "소호",
+      "role": "defendant",
+      "description": "강남스타일 클럽 바텐더. 양진혁 살해 혐의로 1차 재판 피고인.",
+      "portrait_idle": "/court-assets/trial/disaster_epitaph/defendant/idle.png",
+      "portrait_sweat": "/court-assets/trial/disaster_epitaph/defendant/serious.png"
+    },
+    "defendant_anthony": {
+      "id": "def_ep_002",
+      "name": "앤서니",
+      "role": "defendant",
+      "description": "YJ社 선임 엔지니어. 소호 차량 해킹 살인 혐의로 2차 재판 피고인.",
+      "portrait_idle": "/court-assets/trial/disaster_epitaph/defendant/idle.png",
+      "portrait_serious": "/court-assets/trial/disaster_epitaph/defendant/serious.png"
+    },
+    "witness_isoeun": {
+      "id": "wit_ep_001",
+      "name": "이소은",
+      "role": "witness",
+      "description": "1차 재판 증인. 강남스타일에서 양진혁와 함께 있었으나 바텐더를 누명 씌우려 위증한다.",
+      "portrait_idle": "/court-assets/trial/disaster_epitaph/witness-first/basic.png",
+      "portrait_sweat": "/court-assets/trial/disaster_epitaph/witness-first/embarrassed.png",
+      "portrait_breakdown": "/court-assets/trial/disaster_epitaph/witness-first/breakdown.png"
+    },
+    "witness_minsoo": {
+      "id": "wit_ep_002",
+      "name": "임민수",
+      "role": "witness",
+      "description": "YJ社 엔지니어. 2차 재판에서 검찰 측 전문 증인으로 라이다 오류를 주장한다.",
+      "portrait_idle": "/court-assets/trial/disaster_epitaph/witness-second/basic.png",
+      "portrait_angry": "/court-assets/trial/disaster_epitaph/witness-second/angry.png"
+    },
+    "witness_isoeun_post": {
+      "id": "wit_ep_006",
+      "name": "이소은",
+      "role": "witness",
+      "description": "강남스타일에서 양진혁에게 VX가 든 술을 건넨 여성. 1차 재판 중 범행을 시인했으나 연행 중 사망.",
+      "portrait_idle": "/court-assets/trial/disaster_epitaph/witness-first/basic.png",
+      "portrait_sweat": "/court-assets/trial/disaster_epitaph/witness-first/embarrassed.png",
+      "portrait_breakdown": "/court-assets/trial/disaster_epitaph/witness-first/breakdown.png"
+    },
+    "witness_yang": {
+      "id": "wit_ep_004",
+      "name": "양진혁",
+      "role": "witness",
+      "description": "YJ그룹 공동창업자. 강남스타일 VX 살해 피해자.",
+      "portrait_idle": "/court-assets/trial/disaster_epitaph/witness/idle.png"
+    },
+    "witness_forensic": {
+      "id": "wit_ep_003",
+      "name": "최도윤",
+      "role": "witness",
+      "description": "3차 재판 예정 증인. (준비 중)",
+      "portrait_idle": "/court-assets/trial/disaster_epitaph/witness/idle.png"
+    },
+    "prosecutor": {
+      "id": "pros_001",
+      "name": "아우치 검사",
+      "role": "prosecutor",
+      "description": "VX 살인과 차량 해킹 살인을 연결해 기소한다.",
+      "portrait_idle": "/court-assets/characters/prosecutor/0.png"
+    },
+    "judge": {
+      "id": "judge_001",
+      "name": "판사",
+      "role": "judge",
+      "description": "증언과 증거의 논리적 일치를 확인한다.",
+      "portrait_idle": "/court-assets/characters/judge/0.png"
+    },
+    "player": {
+      "id": "player",
+      "name": "나루호도",
+      "role": "defense"
+    }
+  },
+  "clickable_objects": [
+    {
+      "id": "inv_ep_club_flyer",
+      "evidence_id": "ev_ep_club_flyer",
+      "label": "현장 수색",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": "inv_ep_vx_info",
+      "evidence_id": "ev_ep_vx_info",
+      "label": "현장 수색",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": "inv_ep_glasses",
+      "evidence_id": "ev_ep_glasses",
+      "label": "현장 수색",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": "inv_ep_cctv_club",
+      "evidence_id": "ev_ep_cctv_club",
+      "label": "현장 수색",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": "inv_ep_autopsy",
+      "evidence_id": "ev_ep_autopsy",
+      "label": "현장 수색",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": "inv_ep_medical",
+      "evidence_id": "ev_ep_medical",
+      "label": "현장 수색",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": "inv_ep_doctor_opinion",
+      "evidence_id": "ev_ep_doctor_opinion",
+      "label": "현장 수색",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": "inv_ep_wiretap",
+      "evidence_id": "ev_ep_wiretap",
+      "label": "차고지 수색",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": "inv_ep_anthony_id",
+      "evidence_id": "ev_ep_anthony_id",
+      "label": "차고지 수색",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": "inv_ep_cctv_car",
+      "evidence_id": "ev_ep_cctv_car",
+      "label": "차고지 수색",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": "inv_ep_autodrive_log",
+      "evidence_id": "ev_ep_autodrive_log",
+      "label": "차고지 수색",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    }
+  ],
+  "evidences": [
+    {
+      "id": "ev_ep_autopsy",
+      "name": "양진혁 부검 기록",
+      "description": "11시 30분 경, 신경가스 VX 중독에 의한 사망",
+      "fact": "사망 원인이 VX 중독이라는 법의학 결론을 제시한다.",
+      "details": "1차 재판 초기 증언과 대조.",
+      "tags": [
+        "부검",
+        "VX",
+        "사망시각"
+      ]
+    },
+    {
+      "id": "ev_ep_medical",
+      "name": "이소은 진료 기록",
+      "description": "오른손에서 VX가 검출됨",
+      "fact": "증인의 오른손 VX 오염을 객관적으로 보여준다.",
+      "details": "피부 접촉 독성과 연결.",
+      "tags": [
+        "진료",
+        "VX",
+        "오른손"
+      ]
+    },
+    {
+      "id": "ev_ep_vx_info",
+      "name": "VX2에 대한 정보",
+      "description": "VX 신경가스의 치사량은 성인 남성 기준으로 호흡기를 통해 들이마실 경우 약 50mg, 피부에 직접 닿을 경우에는 겨우 10mg 수준이다.\nVX에 대한 정보는 명시, VX2에 대한 정보는 맨 아래에 살짝 나와 있다.\n(O-Ethyl O-2-diisopropylaminoethyl methylphosphonite에 프라이머인 유황을 섞으면, VX가 발생한다.)",
+      "fact": "피부에 10mg 이상 접촉 시 즉각적 치사. 두꺼운 피부·장갑으로 회피 불가.",
+      "details": "1차 재판 최종 모순 증거.",
+      "tags": [
+        "VX",
+        "독성",
+        "피부"
+      ]
+    },
+    {
+      "id": "ev_ep_glasses",
+      "name": "VX 신경가스가 검출된 술잔 2개",
+      "description": "20mg의 VX 신경가스가 포함되어 있다.",
+      "fact": "음주만으로도 치사량에 근접할 수 있음을 보여준다.",
+      "details": "검사의 「소량이어도 위험」 주장과 연결.",
+      "tags": [
+        "VX",
+        "잔",
+        "강남스타일"
+      ]
+    },
+    {
+      "id": "ev_ep_cctv_club",
+      "name": "사건 당시의 CCTV 기록",
+      "description": "화질이 낮고 각도가 제한돼 인물 식별이 불가능한 CCTV.",
+      "fact": "누가 누구인지 특정할 수 있는 식별 증거는 없다.",
+      "details": "1차 재판에서 '식별 불가' 자체가 중요 포인트.",
+      "tags": [
+        "CCTV",
+        "강남스타일"
+      ]
+    },
+    {
+      "id": "ev_ep_club_flyer",
+      "name": "강남스타일 클럽 광고",
+      "description": "CLUB GANGNAM STYLE 홍보 전단. 영업 시간 PM 10:00 ~ AM 06:00. 드레스 코드: TRENDY & STYLISH, NO SPORTS WEAR. 입장 연령 19세 이상.",
+      "fact": "사건 현장 클럽의 운영 규정·분위기를 보여 주는 현장 맥락 자료.",
+      "details": "수사 단계 수집. 법정 모순 증거에는 사용되지 않는다.",
+      "tags": [
+        "강남스타일",
+        "홍보",
+        "수사"
+      ]
+    },
+    {
+      "id": "ev_ep_doctor_opinion",
+      "name": "양진혁 의사 소견서",
+      "description": "양진혁은 기존 심장질환이 있어 소량의 VX도 위험할 수 있다는 의사 소견.",
+      "fact": "1차 재판 중 검사가 반박 단계에서 추가 제출.",
+      "details": "검사의 '20mg도 위험' 보강 자료.",
+      "tags": [
+        "의학",
+        "심장"
+      ]
+    },
+    {
+      "id": "ev_ep_cctv_car",
+      "name": "차량 CCTV 지도",
+      "description": "2030-07-04 14:08:22 교차로. 이소은 연행 호송차 급가속 후 급우회전, 차량 측면이 가로등 기둥에 충돌한 경로가 지도에 표시됨.",
+      "fact": "실제 주행은 우회전. 서버 로그 「좌회전 명령」과 정면 배치.",
+      "details": "2차 재판 핵심 모순.",
+      "tags": [
+        "CCTV",
+        "차량",
+        "우회전"
+      ]
+    },
+    {
+      "id": "ev_ep_autodrive_log",
+      "name": "자율주행 기록 (손상)",
+      "description": "차량 내 블랙박스·자율주행 로그. 화재로 대부분 소실·판독 불가.",
+      "fact": "해킹 여부를 직접 증명하긴 어렵다.",
+      "details": "2차 재판 — 추가 조사 필요성.",
+      "tags": [
+        "자율주행",
+        "손상"
+      ]
+    },
+    {
+      "id": "ev_ep_laptop",
+      "name": "앤서니 노트북",
+      "description": "회사 서버 접속 기록·스크립트 흔적. 검찰이 해킹 도구로 제시.",
+      "fact": "앤서니: 위조·조작 가능 주장.",
+      "details": "2차 재판.",
+      "tags": [
+        "노트북",
+        "서버"
+      ]
+    },
+    {
+      "id": "ev_ep_server_log",
+      "name": "서버 로그 발췌",
+      "description": "[04/Jul/2030:14:07:11] <차량 0x1B6B8A9D 수신> 현재 위치 [36°31'21.4\"N, 127°14'56.5\"E] <차량 0x1B6B8A9D 로 코드 송신> //급가속 후 좌회전 명령",
+      "fact": "송신 기록은 「좌회전」이다. CCTV 실제 우회전과 대조해 사용.",
+      "details": "2차 재판 — CCTV와 대조.",
+      "tags": [
+        "서버",
+        "로그",
+        "회전"
+      ]
+    },
+    {
+      "id": "ev_ep_minsoo_opinion",
+      "name": "임민수 LiDAR 소견서",
+      "description": "라이다 센서 글리치로 좌·우 회전이 반대로 기록될 확률은 극히 희박하다는 임민수 전문가 소견.",
+      "fact": "검찰은 이 소견으로 좌회전 코드·우회전 실주행을 설명하려 한다. 확률 희박성이 약점.",
+      "details": "2차 재판 Battle 2 — 검사 중간 제출.",
+      "tags": [
+        "라이다",
+        "소견",
+        "임민수"
+      ]
+    },
+    {
+      "id": "ev_ep_kakao",
+      "name": "앤서니·임민수 카카오 대화",
+      "description": "CEO 양진혁 살해 바텐더 보복, 소호 차량 살해 계획 등 대화 캡처.",
+      "fact": "동기는 있으나 범행 증명은 아님.",
+      "details": "2차 재판 후반 검찰 제출.",
+      "tags": [
+        "카카오",
+        "동기"
+      ]
+    }
+  ],
+  "testimony": [],
+  "contradictions": [
+    {
+      "rule_id": "rule_ep_battle1_drink_lethal",
+      "required_evidence_id": "ev_ep_vx_info",
+      "target_statement_id": "stmt_epitaph_isoeun_1",
+      "breakdown_delta": 25,
+      "description": "증언 #1과 VX 정보로 음용량 치사성 주장을 흔든다."
+    },
+    {
+      "rule_id": "rule_ep_battle2_hand_question",
+      "required_evidence_id": "ev_ep_medical",
+      "target_statement_id": "stmt_epitaph_isoeun_2",
+      "breakdown_delta": 0,
+      "description": "증언 #2에서 오른손 VX 경위를 집중 신문한다."
+    },
+    {
+      "rule_id": "rule_ep_battle3_order_contradiction",
+      "required_evidence_id": "stmt_epitaph_isoeun_1",
+      "target_statement_id": "stmt_epitaph_isoeun_2",
+      "breakdown_delta": 25,
+      "description": "증언 #1과 #2의 '누가 먼저 쓰러졌는가' 모순을 지적한다."
+    },
+    {
+      "rule_id": "rule_ep_battle4_skin_lethal",
+      "required_evidence_id": "ev_ep_vx_info",
+      "target_statement_id": "stmt_epitaph_isoeun_4",
+      "breakdown_delta": 50,
+      "description": "증언 #4와 VX 피부 치사량(10mg) 모순으로 붕괴시킨다."
+    },
+    {
+      "rule_id": "rule_ep_turn_direction",
+      "required_evidence_id": "ev_ep_cctv_car",
+      "target_statement_id": "stmt_minsoo_hack_left",
+      "breakdown_delta": 34,
+      "description": "CCTV 우회전과 서버 로그 좌회전이 충돌한다."
+    },
+    {
+      "rule_id": "rule_ep_server_right",
+      "required_evidence_id": "ev_ep_server_log",
+      "target_statement_id": "counter_minsoo_lidar",
+      "breakdown_delta": 25,
+      "description": "서버 로그는 우회전 명령. 라이다 오류만으로 설명되지 않는다."
+    },
+    {
+      "rule_id": "rule_ep_motive_not_guilt",
+      "required_evidence_id": "ev_ep_kakao",
+      "target_statement_id": "counter_kakao_motive",
+      "breakdown_delta": 33,
+      "description": "카카오는 소호 보복 의심만 보여주며 이소은 살해 동기를 직접 증명하지 않는다."
+    }
+  ],
+  "breakdown_conditions": {
+    "gauge_threshold": 100,
+    "cutscene_id": "bd_epitaph_isoeun"
+  },
+  "character_knowledge_scope": {
+    "def_ep_001": [
+      "public_evidence",
+      "court_records"
+    ],
+    "def_ep_002": [
+      "public_evidence",
+      "court_records"
+    ],
+    "wit_ep_001": [
+      "own_statements"
+    ],
+    "wit_ep_002": [
+      "own_statements"
+    ],
+    "wit_ep_003": [
+      "own_statements"
+    ],
+    "wit_ep_004": [
+      "own_statements"
+    ],
+    "wit_ep_006": [
+      "own_statements"
+    ],
+    "pros_001": [
+      "public_evidence",
+      "court_records"
+    ],
+    "judge_001": [
+      "public_evidence",
+      "court_records"
+    ]
+  },
+  "allowed_lies": [
+    "이소은은 양진혁이 쓰러져 사망하는 과정에서 독이 쏟아졌다고 말할 수 있다.",
+    "이소은은 취하기 전에 독이 묻었다고 말을 바꿀 수 있다.",
+    "임민수는 라이다 오류로 좌·우 회전이 뒤바뀔 수 있다고 말할 수 있다.",
+    "검사는 카카오 대화로 앤서니의 살인 동기를 강조할 수 있다."
+  ],
+  "forbidden_claims": [
+    "이소은이 살인을 자백했다",
+    "양진혁이 기절했다",
+    "양진혁이 실신했다",
+    "양진혁이 취해 쓰러졌다",
+    "VX 없이도 사망 시각이 확정된다",
+    "동기만으로 해킹이 증명된다",
+    "3차 재판 내용이 이미 확정됐다",
+    "소호 차량",
+    "소호차량",
+    "소호의 차량"
+  ],
+  "court_start_evidence_ids": [
+    "ev_ep_autopsy",
+    "ev_ep_medical",
+    "ev_ep_vx_info",
+    "ev_ep_glasses",
+    "ev_ep_cctv_club"
+  ],
+  "interstitials": [
+    {
+      "interstitial_id": "vn_after_trial_1",
+      "after_trial_id": "trial_epitaph_1",
+      "story_key": "disaster_epitaph_story3",
+      "order": 1,
+      "title": "1차 재판 직후"
+    },
+    {
+      "interstitial_id": "vn_after_trial_2",
+      "after_trial_id": "trial_epitaph_2",
+      "story_key": "disaster_epitaph_trial3",
+      "order": 2,
+      "title": "2차 재판 휴정"
+    }
+  ],
+  "trials": [
+    {
+      "trial_id": "trial_epitaph_1",
+      "title": "1차 재판 — 강남스타일 VX 살인 (소호)",
+      "order": 1,
+      "opening_lines": [
+        {
+          "speaker": "judge_001",
+          "dialogue": "피고, 범행 사실을 인정하시나요?",
+          "animation_tag": "think",
+          "is_fixed": true
+        },
+        {
+          "speaker": "def_ep_001",
+          "dialogue": "아니요, 인정하지 않습니다!",
+          "animation_tag": "serious",
+          "is_fixed": true
+        }
+      ],
+      "stages": [
+        {
+          "stage_id": "stage_epitaph_club",
+          "stage_type": "vs_witness",
+          "order": 1,
+          "active_witness_id": "wit_ep_001",
+          "life": {
+            "easy": 5,
+            "hard": 3
+          },
+          "witness_mental": 100,
+          "fixed_testimony_chain": [
+            {
+              "statement_id": "stmt_epitaph_isoeun_1",
+              "text": "클럽에서 처음 만난 양진혁가 저에게 술을 사줬어요. 바텐더가 준 술을 함께 마시고, 춤을 췄는데, 갑자기 제가 정신을 잃고 쓰러졌습니다! 일어나 보니 병원이었고, 양진혁가 죽어있었어요.... 바텐더가 준 술에 독이 들어있었던 겁니다!",
+              "is_fixed": true,
+              "weakness_id": "weak_ep_battle1_drink_lethal",
+              "required_evidence_ids": [
+                "ev_ep_vx_info",
+                "stmt_epitaph_isoeun_1"
+              ],
+              "required_logic_points": [
+                "VX 정보상 호흡기 치사량은 약 50mg, 술잔 한 개에는 20mg 수준이다.",
+                "증언 #1의 '바텐더 술 독살 단정'은 용량 면에서 즉시 단정하기 어렵다.",
+                "검사는 보강 근거를 제시해야 하며, 증언 #1만으로 유죄 단정은 성급하다."
+              ],
+              "damage_on_success": 25,
+              "life_loss_on_fail": 1,
+              "counter_statement_id": "stmt_epitaph_isoeun_2"
+            }
+          ],
+          "counter_statements": [
+            {
+              "statement_id": "stmt_epitaph_isoeun_2",
+              "text": "앗 그건 양진혁이 저에게 쓰러지면서 제 손에 독이 든 술이 묻어서 그렇습니다",
+              "is_fixed": true,
+              "weakness_id": "weak_ep_battle3_order_contradiction",
+              "required_evidence_ids": [
+                "stmt_epitaph_isoeun_1",
+                "stmt_epitaph_isoeun_2"
+              ],
+              "required_logic_points": [
+                "증언 #1에서는 자신이 먼저 정신을 잃었다고 말했다.",
+                "증언 #2는 '양진혁이 무너질 때 오른손에 튀었다'고 해 당시 상황을 본 전제가 필요하다.",
+                "즉, 누가 먼저 쓰러졌는지에 대한 증언 #1과 #2가 서로 충돌한다."
+              ],
+              "damage_on_success": 25,
+              "life_loss_on_fail": 1,
+              "next_counter_statement_id": "stmt_epitaph_isoeun_3"
+            },
+            {
+              "statement_id": "stmt_epitaph_isoeun_3",
+              "text": "제가 충격이 심한 상황이라, 기억을 잃었던 것 같습니다.",
+              "is_fixed": true,
+              "weakness_id": "weak_ep_bridge_memory",
+              "required_evidence_ids": [],
+              "required_logic_points": [
+                "증언 #3은 모순 해소가 아니라 기억 혼란 주장이다.",
+                "증언 #4에서 다시 사실관계를 구체화해야 한다."
+              ],
+              "damage_on_success": 0,
+              "life_loss_on_fail": 1,
+              "next_counter_statement_id": "stmt_epitaph_isoeun_4"
+            },
+            {
+              "statement_id": "stmt_epitaph_isoeun_4",
+              "text": "실은 술을 조금만 마셨는데, 술에 잔뜩 취한 양진혁 씨가 비틀거리다가 제 술잔에 있던 술을 제 오른손에 모두 쏟았어요! 그래서 손에 술이 묻은 상태로 춤을 추다가... 그 뒤에 독 기운이 올라와서 제가 먼저 쓰러진 겁니다!",
+              "is_fixed": true,
+              "weakness_id": "weak_ep_battle4_skin_lethal",
+              "required_evidence_ids": [
+                "ev_ep_vx_info",
+                "stmt_epitaph_isoeun_4"
+              ],
+              "required_logic_points": [
+                "VX 정보상 피부 치사량은 약 10mg이다.",
+                "증언 #4처럼 잔의 독이 오른손에 대량 접촉했다면 춤을 출 시간이 없어야 한다.",
+                "즉 '독 묻은 손으로 춤춘 뒤 나중에 쓰러졌다'는 증언 #4는 독성 정보와 양립하지 않는다."
+              ],
+              "damage_on_success": 50,
+              "life_loss_on_fail": 1
+            }
+          ],
+          "clear_condition": {
+            "witness_mental_lte": 0
+          },
+          "score_weight": 1.0,
+          "prosecution_context": {
+            "purpose": "바텐더 소호가 독이 든 술로 양진혁을 살해했다는 공소 사실을 이소은 증언으로 입증한다.",
+            "opening_line": "검찰 측은 피고 소호가 독이 든 술을 제공해 양진혁을 사망에 이르게 했다고 주장합니다.",
+            "opening_line_is_fixed": true,
+            "fixed_rebuttal_line": "잠깐, 양진혁씨는 평소 심장질환을 앓고 있었습니다. 의사의 소견서를 증거물로 제출합니다. 20mg은 치사량이 아니더라도 충분히 위험한 양입니다!",
+            "fixed_confession_line": "(머리를 감싸 쥐며 부르르 떤다) 으, 으으으... 기, 기건...! 내가... 내가 피부가 엄청나게 두꺼워서...! 아니, 장갑을 끼고 있어서...!! 윽 ...! 사실 다 거짓말이야. 나를 용서해줘. 바텐더는 죄가 없어…. (죄를 시인한다.)",
+            "witness_claim": "이소은은 바텐더 술, 현장 실신, 병원 각성, 양진혁 사망을 진술한다.",
+            "supports": [
+              "피고인 바텐더의 살인 동기·기회"
+            ],
+            "do_not_reveal": [
+              "이소은 위증",
+              "이소은의 자백 예정",
+              "바텐더 무죄 확정"
+            ],
+            "model_answers": [
+              "VX 정보 50mg·술잔 20mg, 마시기만으론 치사량 미달. 독살 단정은 성급.",
+              "오른손에서 VX물질이 발견된 이유에 대해서 설명해 주세요!",
+              "증언 #1·#2: 먼저 기절 vs 양진혁이 쓰러질 때 손에 묻음. 순서 모순!",
+              "춤 전 손에 치사량 독이 쏟아졌다면 즉사! VX정보 피부 치사량 10mg입니다!"
+            ],
+            "model_answer_hints": [
+              "모범답안) VX 50mg·20mg 용량 + 증언 #1 독살 단정 성급",
+              "모범답안) 오른손 VX 검출 경위 질문",
+              "모범답안) #1·#2 순서 모순",
+              "모범답안) 10mg 피부 + 춤 불가"
+            ],
+            "fixed_judge_cross_exam_prompt": "변호인 할 말 있습니까?",
+            "fixed_defense_cross_exam_intent": "증인에게 물어보고 싶은 것이 있습니다.",
+            "fixed_prosecutor_adjourn_line": "앗! 좀 더 수사가 필요할 것 같습니다! 재판을 멈춰주세요!",
+            "fixed_judge_adjourn_line": "알겠습니다. 수사가 완료될 때 까지 재판을 연기하도록 하죠."
+          },
+          "hints": [
+            "조력자 힌트) 먼저 VX 정보와 증언 #1을 같이 보세요. 숨으로 들이마실 때 치사량(약 50mg)과 잔 속 양(20mg)이 바로 핵심이에요.",
+            "조력자 힌트) 좋아요, 이제는 정답을 단정하지 말고 증인에게 오른손에서 VX가 나온 이유를 직접 끝까지 물어보세요.",
+            "조력자 힌트) 증언 #1과 #2를 나란히 비교해 보세요. 두 말 중 하나는 '누가 먼저 쓰러졌는지' 순서가 맞지 않아요.",
+            "조력자 힌트) 마지막은 VX 정보의 피부 치사량(10mg)과 증언 #4의 행동(손에 묻고 춤)을 붙여 보면 모순이 보여요."
+          ],
+          "contradiction_helper_lines": [
+            [
+              "검사가 소견서를 내더라도 끝난 게 아니에요!",
+              "이제 오른손 VX 경위를 묻고, 증언 #2를 확보하세요."
+            ],
+            [
+              "좋아요! 이제 증언 #1과 #2를 동시에 제시해 순서 모순을 찌르세요.",
+              "핵심은 '먼저 기절했다면서 어떻게 그 장면을 봤나'예요."
+            ],
+            [
+              "마지막이에요!",
+              "증언 #4와 VX 피부 치사량(10mg)을 직접 충돌시키세요."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "trial_id": "trial_epitaph_2",
+      "title": "2차 재판 — 차량 해킹 (앤서니)",
+      "order": 2,
+      "stages": [
+        {
+          "stage_id": "stage_epitaph_car",
+          "stage_type": "vs_witness",
+          "order": 1,
+          "active_witness_id": "wit_ep_002",
+          "life": {
+            "easy": 5,
+            "hard": 3
+          },
+          "witness_mental": 100,
+          "fixed_testimony_chain": [
+            {
+              "statement_id": "stmt_minsoo_hack_left",
+              "text": "앤서니가 회사 서버를 통해 연행 호송차에 급가속 후 우회전 명령을 보냈습니다. 노트북·서버 로그가 그를 가리킵니다.",
+              "is_fixed": true,
+              "weakness_id": "weak_turn_cctv",
+              "required_evidence_ids": [
+                "ev_ep_cctv_car",
+                "ev_ep_server_log"
+              ],
+              "required_logic_points": [
+                "차량 CCTV 지도상 실제 주행은 교차로에서 우회전이다.",
+                "서버 로그에는 급가속 후 좌회전 명령이 기록돼 있다.",
+                "CCTV 우회전과 서버 로그 좌회전은 정면으로 모순된다."
+              ],
+              "damage_on_success": 34,
+              "life_loss_on_fail": 1,
+              "counter_statement_id": "counter_minsoo_lidar"
+            }
+          ],
+          "counter_statements": [
+            {
+              "statement_id": "counter_minsoo_lidar",
+              "text": "라이다 글리치로 회피 조작 시 좌·우가 반대로 나타날 수 있습니다. 제 소견서에 그 확률이 적혀 있습니다.",
+              "is_fixed": true,
+              "weakness_id": "weak_lidar_rare",
+              "required_evidence_ids": [
+                "ev_ep_minsoo_opinion",
+                "ev_ep_server_log"
+              ],
+              "required_logic_points": [
+                "임민수 소견: 라이다 좌·우 반전 확률은 극히 희박하다.",
+                "살해 의도라면 CCTV 우회전 경로에 맞춰 우회전 코드를 보냈을 것이다.",
+                "로그는 좌회전 명령 — 의도적 살해와 맞지 않는다."
+              ],
+              "damage_on_success": 33,
+              "life_loss_on_fail": 1,
+              "next_counter_statement_id": "counter_kakao_motive"
+            },
+            {
+              "statement_id": "counter_kakao_motive",
+              "text": "앤서니와 임민수의 카카오 대화에는 바텐더 소호에 대한 보복·살해 계획이 담겨 있습니다. 이것이 연행 호송차 해킹 살인의 명백한 동기입니다.",
+              "is_fixed": true,
+              "weakness_id": "weak_motive_not_guilt",
+              "required_evidence_ids": [
+                "ev_ep_kakao"
+              ],
+              "required_logic_points": [
+                "카카오는 바텐더 소호에 대한 보복·의심만 보여준다.",
+                "이소은 연행 호송차 살해에 대한 직접 동기는 증명되지 않는다.",
+                "동기만으로는 유죄를 단정할 수 없다."
+              ],
+              "damage_on_success": 33,
+              "life_loss_on_fail": 1
+            }
+          ],
+          "clear_condition": {
+            "witness_mental_lte": 0
+          },
+          "score_weight": 1.0,
+          "prosecution_context": {
+            "purpose": "앤서니가 연행 호송차를 해킹해 살해했다고 기소한다.",
+            "opening_line": "회사 서버 로그에는 사고 직전 연행 호송차에 급가속·좌회전 제어 코드가 송신된 기록이 있습니다. 앤서니 노트북에는 그와 같은 시각 회사 서버에 접속한 흔적이 남아 있습니다.",
+            "opening_line_is_fixed": true,
+            "fixed_prosecutor_submit_line": "검찰은 회사 서버 로그 기록을 증거로 제출합니다. 이어서 앤서니의 노트북 기록도 제출합니다.",
+            "fixed_judge_post_denial_line": "……검사, 증거에 대해 설명해 보십시오.",
+            "fixed_prosecutor_explain_line": "회사 서버 로그에는 사고 직전 연행 호송차에 급가속·좌회전 제어 코드가 송신된 기록이 있습니다. 앤서니 노트북에는 그와 같은 시각 회사 서버에 접속한 흔적이 남아 있습니다.",
+            "fixed_prosecutor_battle2_line": "그럴 줄 알았습니다… 임민수 전문가 LiDAR 소견서를 제출합니다.",
+            "fixed_anthony_battle2_line": "임민수?? 안 돼!! 왜…?! 거짓말이야!!!",
+            "fixed_prosecutor_only_anthony_line": "회사에서 원격 제어 코드를 보낼 수 있는 건 앤서니뿐입니다! 다른 용의자는 없습니다!",
+            "fixed_anthony_forge_line": "해킹 실력 있는 건 나뿐이지만, 로그랑 노트북 기록은 누구나 위조할 수 있어!",
+            "fixed_judge_battle3_line": "지금으로서는 증거만으로 유죄를 단정하기 어렵습니다. 변호인, 할 말 있습니까?",
+            "fixed_prosecutor_adjourn_request_line": "잠깐! 추가 수사가 필요합니다! 재판을 휴정해 주십시오!",
+            "fixed_judge_adjourn_line": "지금으로서는 유죄를 단정하기 어렵습니다. 재판을 휴정하겠습니다.",
+            "witness_claim": "서버·노트북 증거와 우회전 해킹.",
+            "supports": [
+              "앤서니 유죄",
+              "임민수 전문가 신뢰"
+            ],
+            "do_not_reveal": [
+              "임민수 배신",
+              "CCTV 우회전 모순",
+              "휴정 후 3차 재판"
+            ],
+            "model_answers": [
+              "CCTV 우회전·서버로그 좌회전—방향 모순!",
+              "소견 희박·살의면 우회전 코드 보냈을 것. 로그는 좌회전.",
+              "카카오는 소호 보복 의심뿐. 이소은 살해 동기 증명 안 됨—아직 무죄."
+            ],
+            "model_answer_hints": [
+              "모범답안) CCTV+서버로그 우·좌 회전 모순",
+              "모범답안) LiDAR 소견 희박 + 살의면 우회전",
+              "모범답안) 카카오=소호 의심, 이소은 살해 동기 미증명"
+            ],
+            "fixed_prosecutor_post_testimony_line": "임민수 증인의 증언은 바로 이 점을 보여줍니다. 앤서니가 의도적으로 연행 호송차를 조종했다는 검찰의 주장을 확실히 뒷받침합니다."
+          },
+          "hints": [
+            "CCTV 지도 — 실제 우회전 vs 서버 로그 좌회전을 비교하세요.",
+            "임민수 소견 희박성 + 살의면 우회전 코드 — 서버 로그 좌회전과 대조하세요.",
+            "카카오는 소호 보복 의심만 보여줍니다. 이소은 살해 동기를 직접 증명하지 못합니다."
+          ],
+          "contradiction_helper_lines": [
+            [
+              "핵심 모순! CCTV는 우회전인데 서버 로그는 좌회전?",
+              "차량 CCTV와 서버 로그를 함께 제시하세요!"
+            ],
+            [
+              "라이다 글리치? 소견서 희박성 + 살의면 우회전!",
+              "임민수 소견과 서버 로그를 함께 제시하세요."
+            ],
+            [
+              "카카오만으론 유죄 불가!",
+              "카카오 대화를 제시해 소호 의심과 이소은 살해 동기를 구분하세요."
+            ]
+          ]
+        }
+      ],
+      "opening_lines": [
+        {
+          "speaker": "judge_001",
+          "dialogue": "피고 앤서니는 범행 사실을 인정합니까?",
+          "animation_tag": "think",
+          "is_fixed": true
+        },
+        {
+          "speaker": "def_ep_002",
+          "dialogue": "Oh no~!! 말도 안 돼! 나는 해킹한 적이 없다고!! 그 로그는 조작이야!!",
+          "animation_tag": "serious",
+          "is_fixed": true
+        }
+      ]
+    },
+    {
+      "trial_id": "trial_epitaph_3",
+      "title": "3차 재판 — (준비 중)",
+      "order": 3,
+      "stages": [
+        {
+          "stage_id": "stage_epitaph_final_stub",
+          "stage_type": "vs_witness",
+          "order": 1,
+          "active_witness_id": "wit_ep_003",
+          "life": {
+            "easy": 5,
+            "hard": 3
+          },
+          "witness_mental": 100,
+          "fixed_testimony_chain": [
+            {
+              "statement_id": "stmt_epitaph_3_placeholder",
+              "text": "…3차 재판 본편은 아직 준비 중입니다. 증인 최도윤 — 추후 업데이트 예정.",
+              "weakness_id": "weak_placeholder",
+              "required_evidence_ids": [],
+              "required_logic_points": [
+                "준비 중"
+              ],
+              "damage_on_success": 100,
+              "life_loss_on_fail": 1
+            }
+          ],
+          "counter_statements": [],
+          "clear_condition": {
+            "witness_mental_lte": 0
+          },
+          "score_weight": 0.0,
+          "prosecution_context": {
+            "purpose": "플레이스홀더",
+            "witness_claim": "준비 중",
+            "supports": [],
+            "do_not_reveal": []
+          },
+          "hints": [
+            "3차 재판은 추후 업데이트됩니다."
+          ]
+        }
+      ]
+    }
+  ],
+  "character_files": [
+    {
+      "character_id": "def_ep_001",
+      "name": "소호",
+      "role": "defendant",
+      "description": "강남스타일 바텐더. 1차 재판 피고인.",
+      "relation_to_defendant": "본인",
+      "known_statements": [],
+      "credibility_state": "unknown",
+      "portrait": "/court-assets/trial/disaster_epitaph/defendant/idle.png",
+      "expression_state": "idle"
+    },
+    {
+      "character_id": "def_ep_002",
+      "name": "앤서니",
+      "role": "defendant",
+      "description": "YJ社 선임 엔지니어. 2차 재판 피고인.",
+      "relation_to_defendant": "본인",
+      "known_statements": [
+        "「난 해킹 안 했다! 증거 조작이다!」"
+      ],
+      "credibility_state": "unknown",
+      "portrait": "/court-assets/trial/disaster_epitaph/defendant/serious.png",
+      "expression_state": "serious"
+    },
+    {
+      "character_id": "wit_ep_001",
+      "name": "이소은",
+      "role": "witness",
+      "description": "1차 재판 증인. 바텐더 누명을 위해 위증.",
+      "relation_to_defendant": "동료·강남스타일",
+      "known_statements": [
+        "강남스타일 현장에서 정신을 차렸을 때 양진혁이 사망해 있었다고 주장.",
+        "반박당하면 손·쓰러짐 순서·피부 변명을 바꾼다."
+      ],
+      "credibility_state": "unstable",
+      "portrait": "/court-assets/trial/disaster_epitaph/witness-first/basic.png",
+      "expression_state": "idle"
+    },
+    {
+      "character_id": "wit_ep_002",
+      "name": "임민수",
+      "role": "witness",
+      "description": "검찰 측 전문 증인. 라이다·해킹 소견.",
+      "relation_to_defendant": "동료 (앤서니)",
+      "known_statements": [
+        "앤서니 해킹·좌회전 주장.",
+        "라이다 글리치 변명.",
+        "카카오 동기 제출."
+      ],
+      "credibility_state": "unstable",
+      "portrait": "/court-assets/trial/disaster_epitaph/witness-second/basic.png",
+      "expression_state": "idle"
+    },
+    {
+      "character_id": "wit_ep_003",
+      "name": "최도윤",
+      "role": "witness",
+      "description": "3차 재판 예정 증인. (준비 중)",
+      "relation_to_defendant": "미정",
+      "known_statements": [
+        "3차 재판 준비 중"
+      ],
+      "credibility_state": "unknown",
+      "portrait": "/court-assets/trial/disaster_epitaph/witness/idle.png",
+      "expression_state": "idle"
+    },
+    {
+      "character_id": "wit_ep_006",
+      "name": "이소은",
+      "role": "witness",
+      "description": "강남스타일 VX 살인 자백 후 연행 중 사망.",
+      "relation_to_defendant": "무관",
+      "known_statements": [
+        "VX가 든 술을 건넸다",
+        "1차 재판 중 자백"
+      ],
+      "credibility_state": "broken",
+      "portrait": "/court-assets/trial/disaster_epitaph/witness-first/breakdown.png",
+      "expression_state": "breakdown"
+    },
+    {
+      "character_id": "pros_001",
+      "name": "아우치 검사",
+      "role": "prosecutor",
+      "description": "VX·차량 해킹 연쇄 기소.",
+      "relation_to_defendant": "검찰",
+      "known_statements": [],
+      "credibility_state": "official",
+      "portrait": "/court-assets/characters/prosecutor/0.png",
+      "expression_state": "idle"
+    },
+    {
+      "character_id": "judge_001",
+      "name": "판사",
+      "role": "judge",
+      "description": "증언과 증거의 일치를 판단한다.",
+      "relation_to_defendant": "재판부",
+      "known_statements": [],
+      "credibility_state": "neutral",
+      "portrait": "/court-assets/characters/judge/0.png",
+      "expression_state": "idle"
+    }
+  ],
+  "trial_exclude_evidence": {
+    "trial_epitaph_2": [
+      "ev_ep_autopsy",
+      "ev_ep_medical",
+      "ev_ep_vx_info",
+      "ev_ep_glasses",
+      "ev_ep_cctv_club",
+      "ev_ep_club_flyer",
+      "ev_ep_doctor_opinion"
+    ],
+    "trial_epitaph_3": [
+      "ev_ep_autopsy",
+      "ev_ep_medical",
+      "ev_ep_vx_info",
+      "ev_ep_glasses",
+      "ev_ep_cctv_club",
+      "ev_ep_club_flyer",
+      "ev_ep_doctor_opinion"
+    ]
+  },
+  "trial_skip_extra_evidence": {
+    "trial_epitaph_2": [
+      "ev_ep_cctv_car",
+      "ev_ep_autodrive_log",
+      "ev_ep_wiretap",
+      "ev_ep_anthony_id"
+    ],
+    "trial_epitaph_3": [
+      "ev_ep_cctv_car",
+      "ev_ep_autodrive_log",
+      "ev_ep_laptop",
+      "ev_ep_server_log",
+      "ev_ep_kakao",
+      "ev_ep_minsoo_opinion",
+      "ev_ep_wiretap",
+      "ev_ep_anthony_id"
+    ]
+  }
+}
