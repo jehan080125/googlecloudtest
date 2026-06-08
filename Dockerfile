@@ -1,10 +1,11 @@
 FROM python:3.11-slim
 
+# ... 생략 ...
 WORKDIR /app
-
-# 필수 패키지 설치
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+# 파일을 명시적으로 /app/requirements.txt로 복사
+COPY requirements.txt /app/requirements.txt
+# 절대 경로를 사용하여 설치
+RUN pip install --no-cache-dir -r /app/requirements.txt
 
 # 나머지 백엔드 소스코드 복사
 COPY . .
